@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart E-wallet</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="pref_key_custom_categories">benutzerdefinierte Kategorien</string>
+
+
+
+    <string name="add_category">hinzufügen</string>
+    <string name="choose_type">Typ auswählen:</string>
+    <string name="select_category">Kategorie auswählen:</string>
+    <string name="amount">Betrag</string>
+    <string name="inc_exp_comp">Einkommen/Ausgaben Vergleichen:</string>
+    <string name="select_day">Tag auswählen:</string>
+    <string name="select_time">Zeit auswählen:</string>
+    <string name="log_google_acc">Bitte melden Sie sich mit Ihrem Google-Konto an, um Smart E-Wallet zu verwenden.</string>
+    <string name="msg">Keine Sorge, Sie können diese App immer noch verwenden, wenn Sie offline sind. Ihre Änderungen werden automatisch in der Datenbank gespeichert, wenn Sie eine Verbindung zum Internet herstellen.</string>
+    <string name="category">Kategorie</string>
+    <string name="top_exp">Aktualisierte Ausgaben:</string>
+    <string name="account_balance">Kontostand:</string>
+    <string name="ok">ok</string>
+    <string name="expenses">Ausgaben:</string>
+    <string name="incomes">Einkommen:</string>
+    <string name="monthly">Monatlich</string>
+    <string name="weekly">Wöchentlich</string>
+    <string name="remove">Löschen</string>
+    <string name="compare_income_expense">Einkommen und Ausgaben Vergleichen</string>
+    <string name="show_weekly_monthly">Wöchentlich/Monatlich-limit anzeigen</string>
+    <string name="currency">Währung</string>
+    <string name="show_currency_symbol">Währungssymbol auf der linken Seite anzeigen</string>
+    <string name="add_space_money">Fügen Sie zwischen Geld und Währungssymbol ein Leerzeichen ein</string>
+    <string name="first_day">Erster Tag des Monats</string>
+    <string name="saturday">Samstag</string>
+    <string name="sunday">Sonntag</string>
+    <string name="thursday">Donnerstag</string>
+    <string name="tuesday">Dienstag</string>
+    <string name="wednesday">Mittwoch</string>
+    <string name="select_color">Farbe auswählen</string>
+    <string name="changeLang">Sprecherwechsel</string>
+    <string name="friday">Freitag</string>
+    <string name="monday">Monntag</string>
+    <string name="name_of_cat">Name</string>
+    <string name="inco">Einkommen</string>
+    <string name="expo">Ausgabe</string>
+    <string name="pref_key_logout">Ausloggen</string>
+    <string name="pref_key_policy">Datenschutzregelungen</string>
+    <string name="pref_key_limit" translatable="false">Maximalbetrag</string>
+    <string name="pref_key_first_month_day">Einstellen des ersten Monatstages</string>
+    <string name="pref_key_first_week_day">Einstellen des ersten Wochentags</string>
+    <string name="pref_key_currency" translatable="false">Währung</string>
+    <string name="pref_key_counter_period">Periodendauer-Zähler der Startseite</string>
+    <string name="pref_key_counter_type">Periodendauer-Typ der Startseite</string>
+    <string name="title_home">Startseite</string>
+    <string name="general">Allgemein</string>
+    <string name="options">Optionen</string>
+
+
+
+</resources>

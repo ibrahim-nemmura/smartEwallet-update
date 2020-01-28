@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:divider="?attr/dividerHorizontal">
+    <PreferenceCategory
+        android:title="@string/general">
+        <Preference
+            android:key="@string/pref_key_counter_type"
+            android:summary="Compare income and expenses"
+            android:title="@string/pref_key_counter_type" />
+        <Preference
+            android:key="@string/pref_key_counter_period"
+            android:summary="Compare income and expenses"
+            android:title="@string/pref_key_counter_period" />
+        <Preference
+            android:key="@string/pref_key_limit"
+            android:summary="120$"
+            android:title="@string/pref_key_limit" />
+        <Preference
+            android:key="@string/pref_key_currency"
+            android:summary="$"
+            android:title="@string/pref_key_currency" />
+        <Preference
+            android:key="@string/pref_key_custom_categories"
+            android:title="@string/pref_key_custom_categories" />
+        <Preference
+            android:key="@string/pref_key_first_month_day"
+            android:summary="Monday"
+            android:title="@string/pref_key_first_month_day" />
+        <Preference
+            android:key="@string/pref_key_first_week_day"
+            android:summary="1"
+            android:title="@string/pref_key_first_week_day" />
+        <Preference
+            android:key="@string/pref_key_policy"
+            android:title="@string/pref_key_policy" />
+        <Preference
+            android:key="@string/pref_key_logout"
+            android:title="@string/pref_key_logout" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

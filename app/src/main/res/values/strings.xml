@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Smart E-wallet</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications" translatable="false">Notifications</string>
+    <string name="pref_key_custom_categories">Custom categories</string>
+    <string name="name_of_cat">Name</string>
+    <string name="select_color">Select color</string>
+    <string name="add_category">Add</string>
+    <string name="choose_type">Choose type:</string>
+    <string name="select_category">Select category:</string>
+    <string name="amount">Amount</string>
+    <string name="select_day">Select day:</string>
+    <string name="select_time">Select time:</string>
+    <string name="ok">OK</string>
+    <string name="log_google_acc">Please login with your Google account to use Smart E-wallet.</string>
+    <string name="msg">Don`t worry, you can still use this app when you are offline. Your changes will be automatically stored in database when you connect to internet.</string>
+    <string name="category">Category</string>
+    <string name="top_exp">Top expenses:</string>
+    <string name="account_balance">Account balance:</string>
+    <string name="inc_exp_comp">Incomes/expenses comparision:</string>
+    <string name="expenses">Expenses:</string>
+    <string name="incomes">Incomes:</string>
+    <string name="monthly">Monthly</string>
+    <string name="weekly">Weekly</string>
+    <string name="remove">Remove</string>
+    <string name="compare_income_expense">Compare income and expenses</string>
+    <string name="show_weekly_monthly">Show weekly/monthly limit</string>
+    <string name="currency">Currency</string>
+    <string name="show_currency_symbol">Show currency symbol on left side</string>
+    <string name="add_space_money">Add space between money and currency symbol</string>
+    <string name="first_day">First day of month</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="inco">INCOME</string>
+    <string name="expo">EXPENSE</string>
+    <string name="changeLang">Change Language</string>
+    <string name="general">General</string>
+    <string name="options">Options</string>
+
+
+
+
+
+</resources>

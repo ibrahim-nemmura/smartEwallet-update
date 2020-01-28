@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_key_counter_type">Homescreen counter type</string>
+    <string name="pref_key_counter_period">Homescreen counter period</string>
+    <string name="pref_key_limit">Limit</string>
+    <string name="pref_key_currency">Currency</string>
+    <string name="pref_key_first_month_day">Set first month day</string>
+    <string name="pref_key_first_week_day">Set first week day</string>
+    <string name="pref_key_policy">Privacy policy</string>
+    <string name="pref_key_logout" >Logout</string>
+</resources>
