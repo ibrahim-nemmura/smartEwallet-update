@@ -22,11 +22,16 @@ Spending Tracker Android application build with Material Design UI and Firebase
 
 * Always synchronized with Firebase Realtime Database - you will never lose your data
 * Offline mode (Data will be synchronized when you connect to internet)
-* Pie chart of your expenses
-* Monthly/weekly limit
+* Set expenses limit
 * Custom categories
-* Compare incomes/expenses in selected date range
-* Custom currency support
-* Made with Google's Material Design UI
+* Attractive design
+* Supports custom currency 
+* Customize Report Duration
+* Budget Report using Pie chart
+* Expenses report using Pie chart
+
+
+
+
 
 
